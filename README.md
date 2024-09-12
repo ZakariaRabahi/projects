@@ -1,4 +1,4 @@
-# Zakaria's Project Portfolio
+# Projects Zakaria Rabahi
 
 Welcome to my portfolio! Here you'll find a list of my GitHub projects along with descriptions of each.
 
