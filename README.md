@@ -4,7 +4,7 @@ Welcome to my portfolio! Here you'll find a list of my GitHub projects along wit
 
 ## Projects
 
-### [Project 1: WEB APP in React and Node js (https://github.com/ZakariaRabahi/BrusselSportPortal)
+###### [Project 2: C++ M5 Stick DR Mario](https://github.com/ZakariaRabahi/BrusselSportPortal)
 A User friendly portal that allows users to create and join sport events in Brussels.
 
 ---
