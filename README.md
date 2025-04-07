@@ -28,7 +28,7 @@ Scala version of the SIAM game.
 ---
 
 
-### [Project 5: simple Machine Learning project](https://github.com/ZakariaRabahi/MachineLearning)
+### [Project 5: Prediction Model Machine Learning project](https://github.com/ZakariaRabahi/MachineLearning)
 Learning simple Machine learning with models that learn and predict retal carts.
 
 ---
