@@ -25,6 +25,18 @@ A interactive voice assistent that will assist you during your cooking sessions.
 ---
 
 
+### [Project: NCAA Basketball Statistics Processor using Akka Streams](https://github.com/ZakariaRabahi/akkaStreams)
+This project processes a large dataset of NCAA basketball games using Akka Streams.
+
+---
+
+
+### [Project: Actor-Based Online Auction System](https://github.com/ZakariaRabahi/AkkaActors)
+This project implements a scalable and resilient actor-based online auction system using Akka.
+
+---
+
+
 ### [Project: C++ M5 Stick DR Mario](https://github.com/ZakariaRabahi/DRMario)
 C++ version of DR Mario for the M5 Stick.
 
