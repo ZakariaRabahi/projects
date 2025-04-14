@@ -4,6 +4,11 @@ Welcome to my portfolio! Here you'll find a list of my GitHub projects along wit
 
 ## Projects
 
+### [Project: Prediction Model Machine Learning project](https://github.com/ZakariaRabahi/MachineLearning)
+Simple Machine learning with models that learn and predict retal carts.
+
+---
+
 ### [Project: Brussel Sport Portal in React and Node js](https://github.com/ZakariaRabahi/BrusselSportPortal)
 A User friendly portal that allows users to create and join sport events in Brussels.
 
@@ -34,12 +39,6 @@ GameOfLife visual game in C.
 
 ### [Project: Siam Game version in Scala](https://github.com/ZakariaRabahi/Scala-Siam-Game)
 Scala version of the SIAM game.
-
----
-
-
-### [Project: Prediction Model Machine Learning project](https://github.com/ZakariaRabahi/MachineLearning)
-Learning simple Machine learning with models that learn and predict retal carts.
 
 ---
 
